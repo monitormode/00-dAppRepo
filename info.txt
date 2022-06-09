@@ -1,0 +1,5 @@
+//INFO
+
+Deployed @ Ethereum Goerli Network
+
+Whitelist Contract Address: 0x5059F6045850e7AE453f54B328548Ac4a2De2C85
