@@ -207,7 +207,7 @@ export default function Home() {
           </div>
           {renderButton()}
           <div className={styles.description}>
-          <a className="faucetLink" href="https://goerlifaucet.com/" target="_blank">(How to get Goerli ETH for testing this)</a>
+          <a className="faucetLink" href="https://goerlifaucet.com/">(How to get Goerli ETH for testing this)</a>
           </div>
 
         </div>
